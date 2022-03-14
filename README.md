@@ -1,6 +1,6 @@
 # AntiBuilder
 ## Simple open source Minecraft plugin for block people to build and break blocks.
-This is my first Java project. If you see some errors you can [Open issue](https://github.com/AuchenDevs-mc/AntiBuilder/issues/new/choose). Too for Feature request you can [open issue](https://github.com/AuchenDevs-mc/AntiBuilder/issues/new/choose).
+This is my first Java project. It can be used for example to protect lobbies/spawns. If you see some errors you can [Open issue](https://github.com/AuchenDevs-mc/AntiBuilder/issues/new/choose). Too for Feature request you can [open issue](https://github.com/AuchenDevs-mc/AntiBuilder/issues/new/choose).
 
 
 ### How to install.
